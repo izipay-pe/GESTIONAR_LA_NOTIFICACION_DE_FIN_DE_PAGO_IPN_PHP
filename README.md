@@ -1,6 +1,10 @@
 ﻿# Redirect-PaymentForm-IpnT1-PHP
 
-Este es un ejemplo de un script en PHP que estará recibiendo cualquier notificación que se le envía a la url https://midominio.com/respuestaIPN.php y estará creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
+Este es un ejemplo de una una implementación IPN(Instant Notification Payment) en PHP que estará recibiendo la información del pago en la url de ejemplo https://app-izipay.000webhostapp.com/ipn/ y estará creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
+
+
+* Realizar una compra de prueba [Formulario de pago](). Ejemplo de código aquí.
+* Verificar respuesta de pago por la IPN [Notificación de pago](https://app-izipay.000webhostapp.com/ipn/)
 
 ## Requisitos Previos
 
