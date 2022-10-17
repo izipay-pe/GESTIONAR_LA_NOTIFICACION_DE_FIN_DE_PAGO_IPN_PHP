@@ -2,8 +2,8 @@
 
 Este es un ejemplo de una una implementación IPN(Instant Notification Payment) en PHP que estará recibiendo la información del pago y estará creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
 
-* Realizar una compra de prueba [Formulario de pago](). Ejemplo de código aquí.
-* Verificar respuesta de pago por la IPN [Notificación de pago](https://app-izipay.000webhostapp.com/ipn/)
+<!-- * Realizar una compra de prueba [Formulario de pago](). Ejemplo de código aquí. -->
+<!-- * Verificar respuesta de pago por la IPN [Notificación de pago](https://app-izipay.000webhostapp.com/ipn/) -->
 
 ## Requisitos Previos
 
