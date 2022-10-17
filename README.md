@@ -11,9 +11,9 @@ Este es un ejemplo de una una implementación IPN(Instant Notification Payment) 
 2.- PHP 7.0 o superior
 
 ## 1.- Crear el proyecto
-Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP/archive/refs/heads/main.zip) o clonarlo con git.  
+Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Response-PaymentForm-IpnT1-PHP/archive/refs/heads/main.zip) o clonarlo con git.  
 ```sh
-git clone https://github.com/izipay-pe/Redirect-PaymentForm-IpnT1-PHP.git
+git clone https://github.com/izipay-pe/Response-PaymentForm-IpnT1-PHP.git
 ``` 
 
 * **Paso1:** Mover el proyecto y descomprimirlo en la carpeta htdocs en la ruta de instalación de Xampp: C:\xampp\htdocs
@@ -35,7 +35,7 @@ Para este ejemplo se utilizó el servidor gratuito de 000webhost, ingrese a su c
 
 * **Paso 2:** Crear una URL pública y generar una contraseña de acceso a su sitio
 
-    ![Crear nuevo sitio]()
+    ![Crear nuevo sitio](images/nuevo-sitio.png)
 
 * **Paso 3:** Seleccionar File Manager para subir el proyecto.
 
