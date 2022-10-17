@@ -42,11 +42,13 @@ Para este ejemplo se utilizó el servidor gratuito de 000webhost, ingrese a su c
     ![file manager](https://github.com/izipay-pe/Embedded-PaymentFormT1-Php/blob/main/images/file-manager.png)
 
 * **Paso 4:** Seleccionar la carpeta public_html y copiar la carpeta con todos los archivos del proyecto .zip
-```sh
-respuestaIPN/
-index.php
-respuestaIPN.php
-```
+
+    ```sh
+    respuestaIPN/
+    index.php
+    respuestaIPN.php
+    ```
+
     ![public html](https://github.com/izipay-pe/Embedded-PaymentFormT1-Php/blob/main/images/public-html.png)
 
 Ver el resultado en: https://tusitio.000webhostapp.com
