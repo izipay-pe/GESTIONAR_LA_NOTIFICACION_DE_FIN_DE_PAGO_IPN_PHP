@@ -1,4 +1,4 @@
-﻿# Redirect-PaymentForm-IpnT1-PHP
+﻿# Response-PaymentForm-IpnT1-PHP
 
 Este es un ejemplo de una una implementación IPN(Instant Notification Payment) en PHP que estará recibiendo la información del pago y estará creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
 
