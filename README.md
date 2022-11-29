@@ -1,6 +1,6 @@
 ﻿# Response-PaymentForm-IpnT1-PHP
 
-Este es un ejemplo de una una implementación IPN(Instant Notification Payment) en PHP que estará recibiendo la información del pago y estará creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
+Este es un ejemplo de una una implementación IPN(Instant Notification Payment) con el lenguaje de programación PHP, Estará recibiendo la información del pago y creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
 
 <!-- * Realizar una compra de prueba [Formulario de pago](). Ejemplo de código aquí. -->
 <!-- * Verificar respuesta de pago por la IPN [Notificación de pago](https://app-izipay.000webhostapp.com/ipn/) -->
@@ -11,9 +11,9 @@ Este es un ejemplo de una una implementación IPN(Instant Notification Payment) 
 2.- PHP 7.0 o superior
 
 ## 1.- Crear el proyecto
-Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/Response-PaymentForm-IpnT1-PHP/archive/refs/heads/main.zip) o clonarlo con git.  
+Descargar el proyecto .zip haciendo click [Aquí](https://github.com/izipay-pe/GESTIONAR_LA_NOTIFICACION_DE_FIN_DE_PAGO_IPN_PHP/archive/refs/heads/main.zip) o clonarlo con git.  
 ```sh
-git clone https://github.com/izipay-pe/Response-PaymentForm-IpnT1-PHP.git
+git clone https://github.com/izipay-pe/GESTIONAR_LA_NOTIFICACION_DE_FIN_DE_PAGO_IPN_PHP.git
 ``` 
 
 * **Paso1:** Mover el proyecto y descomprimirlo en la carpeta htdocs en la ruta de instalación de Xampp: C:\xampp\htdocs
