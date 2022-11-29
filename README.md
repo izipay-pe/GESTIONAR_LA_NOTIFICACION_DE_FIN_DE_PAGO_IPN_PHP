@@ -1,6 +1,6 @@
 ﻿# Response-PaymentForm-IpnT1-PHP
 
-Este es un ejemplo de una una implementación IPN(Instant Notification Payment) con el lenguaje de programación PHP, Estará recibiendo la información del pago y creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida. 
+<p align="justify">Este es un ejemplo de una una implementación IPN(Instant Notification Payment) con el lenguaje de programación PHP, Estará recibiendo la información del pago y creando un archivo en la carpeta `respuestaIPN/` por cada notificación recibida.</p>
 
 <!-- * Realizar una compra de prueba [Formulario de pago](). Ejemplo de código aquí. -->
 <!-- * Verificar respuesta de pago por la IPN [Notificación de pago](https://app-izipay.000webhostapp.com/ipn/) -->
